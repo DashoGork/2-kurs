@@ -1,0 +1,13 @@
+Results of work Search_day: Monday
+Moskow Monday 4 45 7634987 Airbus
+Tokio Monday 14 17 8593321 Airbus
+
+Results of work Search_name: Moskow
+Moskow Monday 4 45 7634987 Airbus
+Moskow Thuesday 13 44 9854761 Airbus
+Moskow Saturday 15 24 9855561 Airbus
+
+Results of work Search_day_and_time: Monday 10:20
+Moskow Monday 4 45 7634987 Airbus
+Tokio Monday 14 17 8593321 Airbus
+

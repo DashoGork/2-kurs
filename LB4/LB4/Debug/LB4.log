@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(194,23): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(211,25): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(232,34): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(305,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(306,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(307,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(308,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(186): warning C4715: Vector<int>::IsComplCol: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\LB4\LB4\Source.cpp(186): warning C4715: Vector<float>::IsComplCol: значение возвращается не при всех путях выполнения
+  LB4.vcxproj -> C:\Users\User\source\repos\LB4\Debug\LB4.exe

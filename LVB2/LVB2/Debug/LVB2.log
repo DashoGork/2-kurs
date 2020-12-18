@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\LVB2\LVB2\MyForm.h(468,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\User\source\repos\LVB2\LVB2\MyForm.h(396,13): warning C4101: k: неиспользованная локальная переменная
+C:\Users\User\source\repos\LVB2\LVB2\MyForm.h(396,22): warning C4101: t: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LVB2.vcxproj -> C:\Users\User\source\repos\LVB2\Debug\LVB2.exe

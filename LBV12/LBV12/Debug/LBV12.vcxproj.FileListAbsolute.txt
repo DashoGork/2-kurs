@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\LBV12\LBV12\Debug\LBV12.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\LBV12\LBV12\Debug\LBV12.MyForm.resources
+C:\Users\User\source\repos\LBV12\LBV12\Debug\LBV12.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\LBV12\LBV12\Debug\LBV12.Wind2.resources

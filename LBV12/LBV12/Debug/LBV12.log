@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(223,14): warning C4101: product: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(247,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(258,14): warning C4101: product: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(283,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(341,14): warning C4101: product: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(365,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(376,14): warning C4101: product: неиспользованная локальная переменная
+C:\Users\User\source\repos\LBV12\LBV12\MyForm.h(411,34): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LBV12.vcxproj -> C:\Users\User\source\repos\LBV12\Debug\LBV12.exe
