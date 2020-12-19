@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(111,13): warning C4101: k: неиспользованная локальная переменная
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(259,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(259,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(327,18): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(338,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(338,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(414,1): warning C4305: =: усечение из "int" в "char"
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(414,18): warning C4309: =: усечение константного значения
+C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\zach0t6-8\Source.cpp(432,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  zach0t6-8.vcxproj -> C:\личное\kar\второй курс\прога\лб\repos\repos\zach0t6-8\Debug\zach0t6-8.exe
