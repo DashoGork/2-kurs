@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\LVB4.2\LVB4.2\Debug\LVB42.MyForm.resources
+C:\Users\User\source\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxproj.GenerateResource.cache
+C:\личное\хуйсоси\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxprojAssemblyReference.cache
+C:\личное\хуйсоси\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB42.MyForm.resources
+C:\личное\хуйсоси\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxproj.GenerateResource.cache
+C:\личное\kar\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxprojAssemblyReference.cache
+C:\личное\kar\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB42.MyForm.resources
+C:\личное\kar\второй курс\прога\лб\repos\repos\LVB4.2\LVB4.2\Debug\LVB4.2.vcxproj.GenerateResource.cache
